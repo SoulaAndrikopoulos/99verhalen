@@ -6,3 +6,6 @@ https://soulaandrikopoulos.github.io/99verhalen/Lepra/
 
 Het verhaal Telegrafisch met het sfeerwoord Sterk:
 https://soulaandrikopoulos.github.io/99verhalen/Telegrafisch/
+
+Het verhaal Steenkolenfrans met het sfeerwoord Chic:
+
