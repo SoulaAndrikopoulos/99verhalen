@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-image: url(images/ivory-off-white-paper-texture.jpg);
+}
+
+img {
+    margin-top: 5em;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    font: Cochin, cursive;
+    color: black;
+    font-size: 2em;
+    margin: 1em;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+
+a:hover {
+    opacity: 0.6;
+}
