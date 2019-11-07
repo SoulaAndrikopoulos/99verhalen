@@ -8,5 +8,5 @@ Het verhaal Telegrafisch met het sfeerwoord Sterk:
 https://soulaandrikopoulos.github.io/99verhalen/Telegrafisch%20eindversie/
 
 Het verhaal Steenkolenfrans met het sfeerwoord Chic:
-https://soulaandrikopoulos.github.io/99verhalen/Steenkolenfranss
+https://soulaandrikopoulos.github.io/99verhalen/Steenkolenfranseindversie/
 
